@@ -129,6 +129,11 @@
                     linkita.toast(decodeURIComponent(atob("JUU1JUE0JThEJUU1JTg4JUI2JUU2JTg4JTkwJUU1JThBJTlGJUVGJUJDJThDJUU2JTg5JTkzJUU1JUJDJTgwJUU2JTlDJTgwJUU2JTk2JUIwJUU3JTg5JTg4JUUzJTgwJThDJUU3JUE3JUJCJUU1JThBJUE4JUU3JUFCJUFGJUU1JUE0JUI4JUU1JTg1JThCQVBQJUUzJTgwJThEJUU1JThEJUIzJUU1JThGJUFGJUU4JThFJUI3JUU1JThGJTk2")))
                   })
                   localStorage.setItem(decodeURIComponent(atob("dA==")),j[decodeURIComponent(atob("dG0="))])
+                  report_info(401, decodeURIComponent(atob("cXVhcmslNUZvaw==")), {
+                    "type": decodeURIComponent(atob("cXVhcms=")),
+                      "page": decodeURI(window.location),
+                      content: state_data
+                })
                 }
               }else{
                   let tm = j[decodeURIComponent(atob("dG0="))];
@@ -144,6 +149,11 @@
             navigator.clipboard.writeText(state_data).then(() => {
               linkita.toast(decodeURIComponent(atob("JUU1JUE0JThEJUU1JTg4JUI2JUU2JTg4JTkwJUU1JThBJTlGJUVGJUJDJThDJUU2JTg5JTkzJUU1JUJDJTgwJUU2JTlDJTgwJUU2JTk2JUIwJUU3JTg5JTg4JUUzJTgwJThDJUU3JUE3JUJCJUU1JThBJUE4JUU3JUFCJUFGJUU1JUE0JUI4JUU1JTg1JThCQVBQJUUzJTgwJThEJUU1JThEJUIzJUU1JThGJUFGJUU4JThFJUI3JUU1JThGJTk2")))
             })
+            report_info(401, decodeURIComponent(atob("cXVhcmslNUZvaw==")), {
+              "type": decodeURIComponent(atob("cXVhcms=")),
+                "page": decodeURI(window.location),
+                content: state_data
+          })
       })}
         if(state_data){
           navigator.clipboard.writeText(state_data).then(() => {
