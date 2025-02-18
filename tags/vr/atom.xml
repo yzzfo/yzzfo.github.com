@@ -5,8 +5,62 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/vr/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-02-16T17:36:06+00:00</updated>
+    <updated>2025-02-18T12:04:29+00:00</updated>
     <id>https://yzzfo.github.io/tags/vr/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Easy Collider Editor</title>
+        <published>2025-02-18T12:04:29+00:00</published>
+        <updated>2025-02-18T12:04:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/Easy Collider Editor/ignore-index-en/"/>
+        <id>https://yzzfo.github.io/unity/store/Easy Collider Editor/ignore-index-en/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/Easy Collider Editor/ignore-index-en/">&lt;p&gt;Create colliders for all your assets quickly and easily with vertex selection. Generate convex mesh colliders automatically with VHACD. Auto generate colliders for skinned meshes.&lt;br&gt;&lt;p &gt;&lt;em&gt;Having trouble getting accurate physics and colliders?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Easy Collider Editor&lt;&#x2F;strong&gt; lets you quickly create colliders that fit any object. Just select points and vertices on a mesh, and click a button or press a shortcut key. It&#x27;s that easy! Create boxes, spheres, capsules, cylinders, rotated boxes, rotated capsules, and convex mesh colliders quickly and easily.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Can&#x27;t visualize what the result will be?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;A helpful preview shows you the result as you work. You can even switch between the previews with shortcut keys, and create a collider from the current preview with a double tap or a single key press!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Just want to use convex mesh colliders on everything?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Use the VHACD plugin to automatically create as many convex mesh colliders as you want. You can even convert the output of VHACD automatically to boxes, spheres, and capsules, or convert individually using the collider merge tools.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Don&#x27;t want to create colliders for a character?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;Automatically create boxes, capsules, spheres, or convex meshes on a skinned mesh&#x27;s bones with a single click of a button!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;em&gt;Want to see more features added?&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;p &gt;A lot of features like the cylinder collider, extra vhacd settings, previews, and more were all added at the suggestion of users. Let me know what you&#x27;d like to see!&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Easy Collider Editor&lt;&#x2F;strong&gt; is designed to make creating and positioning box, sphere, capsule, cylinder, and convex mesh colliders as easy as possible. This tool lets you quickly and easily add multiple colliders on gameobjects using simple and easy to use vertex selection tools. No more painfully adding, moving, and resizing colliders.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;A helpful preview is drawn as you select points to make collider creation even easier. Shortcut keys let you swap between previews and create a collider from the current preview. Other options include letting you to decide how the created colliders get attached, the ability to shrink or grow the resulting collider, and the option to create multiple colliders around a pivot point.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Another feature for windows in &lt;strong&gt;Easy Collider Editor&lt;&#x2F;strong&gt; is convex hull generation using VHACD. This lets you automatically generate multiple convex mesh colliders on any mesh with a simple click of a button. Using multiple convex mesh colliders lets you better represent the shape of the mesh while still allowing physics and rigidbodies to work correctly. All VHACD parameters are exposed and easily adjustable, and a preview of the result is calculated and displayed as you work. Additional options for VHACD allow you to use only selected vertices, process meshes individually, and convert the output automatically to boxes, spheres or capsules.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;&lt;strong&gt;Easy Collider Editor&lt;&#x2F;strong&gt; can also automatically generate box, capsule, sphere, or convex mesh colliders along a skinned mesh&#x27;s bones. Parameters for this let you exclude vertices by weight, automatically realign colliders with the bones, and prevent collider overlap. The new per bone settings also give you the options of toggling bones, changing colliders, and adjusting weights for each bone.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;DOTS with the Unity.Physics package is also supported. A package is included that adds Physic Shape parameters and a button to the UI. These can be used to convert the normal Unity colliders created by Easy Collider Editor into Physic Shapes.&lt;&#x2F;p&gt;&lt;&#x2F;br&gt;&lt;&#x2F;br&gt;&lt;p &gt;Easy Collider Editor uses VHACD under BSD-3-Clause, see ThirdPartyNotices.txt in package for details.&lt;&#x2F;p&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Easy Collider Editor</title>
+        <published>2025-02-18T12:04:29+00:00</published>
+        <updated>2025-02-18T12:04:29+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/easy-collider-editor/"/>
+        <id>https://yzzfo.github.io/unity/store/easy-collider-editor/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/easy-collider-editor/">&lt;p&gt;快速轻松地为所有资产创建碰撞体，使用顶点选择。使用VHACD自动生成凸包网格碰撞体。自动为蒙皮网格生成碰撞体。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;在获取准确的物理效果和碰撞体时遇到困难吗？&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;简单碰撞体编辑器&lt;&#x2F;strong&gt;让您能够快速创建适合任何对象的碰撞体。只需选择网格上的点和顶点，然后点击一个按钮或按下快捷键。就是这么简单！快速轻松地创建盒子、球体、胶囊体、圆柱体、旋转盒子、旋转胶囊体和凸包网格碰撞体。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;无法想象结果会是什么样子吗？&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;一个有用的预览在您工作时显示结果。您甚至可以使用快捷键在预览之间切换，并通过双击或单击一个按键从当前预览创建碰撞体！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;只想在所有物体上使用凸包网格碰撞体吗？&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;使用VHACD插件自动创建任意数量的凸包网格碰撞体。您甚至可以将VHACD的输出自动转换为盒子、球体和胶囊体，或者使用碰撞体合并工具单独转换。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;不想为角色创建碰撞体吗？&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;只需单击一个按钮，即可在蒙皮网格的骨骼上自动创建盒子、胶囊体、球体或凸包网格！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;想看到更多功能添加吗？&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;许多功能，如圆柱碰撞体、额外的VHACD设置、预览等，都是根据用户的建议添加的。告诉我您想看到什么！&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;简单碰撞体编辑器&lt;&#x2F;strong&gt;旨在使创建和定位盒子、球体、胶囊体、圆柱体和凸包网格碰撞体尽可能简单。此工具让您能够快速轻松地使用简单易用的顶点选择工具在游戏对象上添加多个碰撞体。再也不用痛苦地添加、移动和调整碰撞体的大小了。&lt;&#x2F;p&gt;&lt;br&gt;&lt;p&gt;在选择点以便更轻松地创建碰撞体时，会绘制一个有用的预览。快捷键让您可以在预览之间切换，并从当前预览创建碰撞体。其他选项包括让您决定创建的碰撞体如何附加、缩小或放大生成的碰撞体的能力，以及在一个枢轴点周围创建多个碰撞体的选项。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Easy Collider Editor&lt;&#x2F;strong&gt;的另一个功能是使用VHACD生成凸包。这使您可以通过简单的按钮点击，自动在任何网格上生成多个凸形网格碰撞体。使用多个凸形网格碰撞体可以更好地表示网格的形状，同时仍然允许物理和刚体正常工作。所有VHACD参数都已公开并易于调整，并且在您工作时会计算并显示结果的预览。VHACD的附加选项允许您仅使用选定的顶点、单独处理网格，并自动将输出转换为盒子、球体或胶囊。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Easy Collider Editor&lt;&#x2F;strong&gt;还可以沿着蒙皮网格的骨骼自动生成盒形、胶囊形、球形或凸形网格碰撞体。此功能的参数允许您按权重排除顶点，自动重新对齐与骨骼的碰撞体，并防止碰撞体重叠。新的每个骨骼设置还为您提供了切换骨骼、改变碰撞体和调整每个骨骼权重的选项。&lt;&#x2F;p&gt;
+&lt;p&gt;DOTS与Unity.Physics包也得到了支持。包含一个包，添加了物理形状参数和一个按钮到用户界面。这些可以用于将Easy Collider Editor创建的普通Unity碰撞体转换为物理形状。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Easy Collider Editor&lt;&#x2F;strong&gt;在BSD-3-Clause下使用VHACD，详细信息请参见包中的ThirdPartyNotices.txt。&lt;&#x2F;p&gt;</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>Volumetric Light Beam</title>
         <published>2025-01-01T01:00:30+00:00</published>
