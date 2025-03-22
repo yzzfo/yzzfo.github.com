@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - Rigged</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/rigged/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-22T18:38:22+00:00</updated>
+    <id>https://yzzfo.github.io/tags/rigged/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>KayKit - Adventurers Character Pack (for Unity)</title>
+        <published>2025-03-22T18:38:22+00:00</published>
+        <updated>2025-03-22T18:38:22+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/kaykit-adventurers-character-pack-for-unity/"/>
+        <id>https://yzzfo.github.io/unity/store/kaykit-adventurers-character-pack-for-unity/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/kaykit-adventurers-character-pack-for-unity/">&lt;p&gt;这是一个包含 6 个风格化低多边形角色资源包。这些角色已经完全绑定和动画化，并带有 90 多个动画和 25 多个配件。非常适合制作 RPG、roguelike 等类型的游戏！&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;KayKit - 冒险者角色包 (Unity 专用)&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p &gt;----&lt;&#x2F;p&gt;&lt;p &gt;这个包包括 &lt;strong&gt;6 个&lt;&#x2F;strong&gt; 风格化低多边形 &lt;strong&gt;动画角色资源&lt;&#x2F;strong&gt;：&lt;&#x2F;p&gt;&lt;ul&gt;&lt;li &gt;&lt;strong&gt;骑士&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;野蛮人&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;盗贼 (普通版 + 带帽版)&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;法师&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;德鲁伊&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;strong&gt;工程师&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;这些角色带有 95 个动画 (战斗&#x2F;移动 + 更多)。你可以在&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=T1KNCtAqJ7A&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;这里观看所有动画的完整预览视频&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p &gt;----&lt;&#x2F;p&gt;
+&lt;p &gt;还包含大量的配件，比如 &lt;strong&gt;剑&#x2F;斧&#x2F;盾牌&#x2F;弩&#x2F;魔法物品&#x2F;药水&#x2F;枪&#x2F;炮塔&lt;&#x2F;strong&gt;。（你可以在示例图片中查看完整内容）&lt;&#x2F;p&gt;
+&lt;p &gt;每个角色都经过完整的 &lt;strong&gt;绑定、贴图和动画处理&lt;&#x2F;strong&gt;！身体、头部、手臂和腿部都是单独的网格，因此你可以轻松地在角色之间交换肢体&#x2F;头部&#x2F;身体，实现完全的自定义！&lt;&#x2F;p&gt;
+&lt;p &gt;这些角色还带有 &lt;strong&gt;3 种可选纹理，每种&lt;&#x2F;strong&gt;。只需交换材质上的纹理，你就可以创建更多的角色。&lt;&#x2F;p&gt;
+&lt;p &gt;----&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;strong&gt;和所有其他 KayKit 资源包一样，这个资源包倾注了大量的爱和对细节的关注。&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p &gt;&lt;em&gt;这是 (Unity 专用) 版本，是此资源包的特殊版本，专门为在 Unity 中使用而制作，可以节省你设置资源的大量宝贵时间。你将获得：&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;&lt;li &gt;&lt;em&gt;一个整洁的文件夹结构&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;em&gt;每个模型都包含作为一个预制体 (prefab)&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;&lt;li &gt;&lt;em&gt;所有材质都已正确设置&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+&lt;p &gt;&lt;em&gt;对于动画角色：&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;1 个化身设置为 Mecanim 人形，可用于所有标准 KayKit 角色&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;em&gt;全部 (95 个) 动画已设置 (循环 + 正确根节点) 并清理。&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;&lt;li&gt;&lt;em&gt;全部 (95 个) 动画按类别整理在文件夹结构中。&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+</feed>

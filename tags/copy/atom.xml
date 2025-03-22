@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - Copy</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/copy/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-22T18:38:09+00:00</updated>
+    <id>https://yzzfo.github.io/tags/copy/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>SmartCopier</title>
+        <published>2025-03-22T18:38:09+00:00</published>
+        <updated>2025-03-22T18:38:09+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/smartcopier/"/>
+        <id>https://yzzfo.github.io/unity/store/smartcopier/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/smartcopier/">&lt;p&gt;SmartCopier 让你能够轻松地将一个游戏对象（GameObject）的任意数量的组件（Component）复制到其他游戏对象。它甚至允许你选择要复制的组件的哪些属性（Property）。这将极大地加快你的工作流程。&lt;&#x2F;p&gt;
+&lt;p&gt;✔ 立即复制任意数量的组件
+✔ 选择每个组件中你希望复制的属性
+✔ 将组件粘贴到所有选定的游戏对象
+✔ 为组件或属性指定自定义类型和特性，以便默认忽略
+✔ 提供完整的源代码，所有功能都可以通过代码优先的 API 进行访问&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;forum.unity.com&#x2F;threads&#x2F;released-smartcopier-quickly-copy-components-and-properties.534159&#x2F;&quot;&gt;论坛帖子&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
