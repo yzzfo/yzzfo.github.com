@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh">
+    <title>yzzfo | Share for Free - visualize</title>
+    <subtitle>游戏开发学习资源分享</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/visualize/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-26T19:01:08+00:00</updated>
+    <id>https://yzzfo.github.io/tags/visualize/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>ALINE</title>
+        <published>2025-03-26T19:01:08+00:00</published>
+        <updated>2025-03-26T19:01:08+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/aline/"/>
+        <id>https://yzzfo.github.io/unity/store/aline/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/aline/">&lt;p&gt;ALINE is a complete replacement for Unity&#x27;s built-in Debug.Draw and Gizmo drawing functionality and all your other drawing needs. It is faster, has more features and has better rendering quality.&lt;br&gt;&lt;em&gt;ALINE 可完全替代 Unity 的内置 Debug.Draw 和 Gizmo 绘制功能以及其他所有绘制需求。它更快，功能更丰富，渲染质量更高。&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;是否已厌倦 Unity 有限且不一致的绘制用 API？&lt;br&gt;&lt;br&gt;是否曾经希望通过在 Burst 或 ESC 任务中绘制调试线，从而对其进行调试？&lt;br&gt;&lt;br&gt;甚至希望在独立游戏中绘制？或者希望制作关卡编辑器？&lt;br&gt;&lt;br&gt;&lt;strong&gt;可以借助 ALINE 实现这一切效果！&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;这是一个全新的资源包。这正是为何在短暂的测试期内可以以低价买到这一资源包。测试期结束后，价格可能会上涨。这也意味着，即便该资源包已用于制作，其中可能还是存在性能不佳的漏洞或工作流程。请报告这些漏洞或不足，我们会即刻修复！&lt;&#x2F;em&gt;&lt;br&gt;&lt;br&gt;功能亮点&lt;br&gt;- 更多绘制原始物体&lt;br&gt;- 简单、灵活且一致的 API&lt;br&gt;- 高性能。通常明显优于 Unity 的 API&lt;br&gt;- 从 Burst&#x2F;ESC 任务内绘制，轻松进行调试。&lt;br&gt;- 在独立游戏内渲染。如果希望在游戏内制作关卡编辑器或营造科幻外观，这就是不二之选&lt;br&gt;- 即便没有 MSAA 或其他任何类型的后期处理，也可呈现完美的抗锯齿线条&lt;br&gt;- 记录翔实&lt;br&gt;- &lt;a href=&quot;https:&#x2F;&#x2F;arongranberg.com&#x2F;drawing&#x2F;features&quot;&gt;在资源包网站上发现更多功能&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;ALINE 用于 &lt;a href=&quot;https:&#x2F;&#x2F;assetstore.unity.com&#x2F;packages&#x2F;tools&#x2F;ai&#x2F;a-pathfinding-project-pro-87744&quot;&gt;A* Pathfinding 项目&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arongranberg.com&#x2F;drawing&quot;&gt;资源包网站&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -5,8 +5,50 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/sheng-wu/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-12-17T13:36:29+00:00</updated>
+    <updated>2025-03-26T19:01:02+00:00</updated>
     <id>https://yzzfo.github.io/tags/sheng-wu/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Poly HP - Ghost</title>
+        <published>2025-03-26T19:01:02+00:00</published>
+        <updated>2025-03-26T19:01:02+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/poly-hp-ghost/"/>
+        <id>https://yzzfo.github.io/unity/store/poly-hp-ghost/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/poly-hp-ghost/">&lt;p&gt;幽灵&lt;&#x2F;p&gt;
+&lt;p&gt;多边形数量：736
+三角形数量：1242
+顶点数量：611&lt;&#x2F;p&gt;
+&lt;p&gt;渲染管线：内置渲染管线
+材质数量：6
+纹理分辨率：2048x2048
+纹理数量：6&lt;&#x2F;p&gt;
+&lt;p&gt;已绑定骨骼：是
+动画数量：11&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;待机&lt;&#x2F;li&gt;
+&lt;li&gt;行走（飞行）&lt;&#x2F;li&gt;
+&lt;li&gt;奔跑（飞行）&lt;&#x2F;li&gt;
+&lt;li&gt;攻击_01&lt;&#x2F;li&gt;
+&lt;li&gt;攻击_02&lt;&#x2F;li&gt;
+&lt;li&gt;受伤_01&lt;&#x2F;li&gt;
+&lt;li&gt;受伤_02&lt;&#x2F;li&gt;
+&lt;li&gt;跳跃&lt;&#x2F;li&gt;
+&lt;li&gt;眩晕&lt;&#x2F;li&gt;
+&lt;li&gt;死亡&lt;&#x2F;li&gt;
+&lt;li&gt;起身&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>HEROIC FANTASY CREATURES FULL PACK Volume 3</title>
         <published>2024-12-06T14:28:54+00:00</published>
