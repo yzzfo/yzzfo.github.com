@@ -5,8 +5,53 @@
     <link rel="self" type="application/atom+xml" href="https://yzzfo.github.io/tags/gui/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://yzzfo.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2025-03-26T19:01:08+00:00</updated>
+    <updated>2025-04-08T22:24:05+00:00</updated>
     <id>https://yzzfo.github.io/tags/gui/atom.xml</id>
+    <entry xml:lang="zh">
+        <title>Cartoon GUI Pack</title>
+        <published>2025-04-08T22:24:05+00:00</published>
+        <updated>2025-04-08T22:24:05+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/cartoon-gui-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/cartoon-gui-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/cartoon-gui-pack/">&lt;p&gt;&lt;br&gt;&lt;strong&gt;卡通 GUI 资源&lt;&#x2F;strong&gt;包是一个可自定义、方便于移动游戏的 UI 包，它包含许多可用于创建卡通外观游戏的元素。&lt;br&gt;&lt;br&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.ricimi.com&#x2F;webgl-player-cartoon-gui-pack&#x2F;&quot;&gt;- WebGL 玩家演示 -&lt;&#x2F;a&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;功能：&lt;&#x2F;strong&gt;&lt;br&gt;&lt;br&gt;• 分层的 Photoshop。包含 PSD 文件。&lt;br&gt;• 包含了预制件、动画、粒子特效、声音 特效、和完整 C# 代码。&lt;br&gt;• 轻易通过 9 宫格按钮和背景自定义大小。&lt;br&gt;• 竖屏背景图像，可用于无限滚动。&lt;br&gt;• 适用于移动设备。可以在横屏和竖屏间相互切换。&lt;br&gt;&lt;br&gt;&lt;strong&gt;包含了完整的演示项目&lt;&#x2F;strong&gt;，展示了该资源包的内容如何在真实的项目中使用，和全套 C# 源代码、预设和动画。&lt;br&gt;&lt;br&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="zh">
+        <title>Mega Hyper Casual GUI Pack</title>
+        <published>2025-04-08T22:23:53+00:00</published>
+        <updated>2025-04-08T22:23:53+00:00</updated>
+        
+        <author>
+          <name>
+            
+              yzzfo
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://yzzfo.github.io/unity/store/mega-hyper-casual-gui-pack/"/>
+        <id>https://yzzfo.github.io/unity/store/mega-hyper-casual-gui-pack/</id>
+        
+        <content type="html" xml:base="https://yzzfo.github.io/unity/store/mega-hyper-casual-gui-pack/">&lt;p&gt;&lt;strong&gt;超级休闲GUI包&lt;&#x2F;strong&gt;是一个可定制、灵活且易于使用的游戏UI包，用于为您的游戏创建完美的用户界面。该包非常适合所有想要创建超休闲手机游戏的开发者。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;此包包括：&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;所有UI元素的 &lt;strong&gt;8&lt;&#x2F;strong&gt; 种颜色模式&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;+300 个元素&lt;&#x2F;strong&gt; 来定制您的界面（按钮、图标、弹出窗口、背景、进度条...）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;14&lt;&#x2F;strong&gt; 个即用型响应式演示屏幕&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;2&lt;&#x2F;strong&gt; 种类型的 &lt;strong&gt;九宫格切片&lt;&#x2F;strong&gt; 弹出窗口&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;2&lt;&#x2F;strong&gt; 种类型的 &lt;strong&gt;九宫格切片&lt;&#x2F;strong&gt; 按钮&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;2&lt;&#x2F;strong&gt; 种带有文本或图标的按钮&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;2&lt;&#x2F;strong&gt; 种图标（扁平或阴影）&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;20&lt;&#x2F;strong&gt; 个可定制表情符号&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;30&lt;&#x2F;strong&gt; 个条件文本&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;1&lt;&#x2F;strong&gt; 种字体&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;每个屏幕都有多种变体，以最好地适应您的游戏&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;&lt;p&gt;&lt;strong&gt;还有更多...&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;如果您有任何问题，请随时给我发送电子邮件，我很乐意回答您。&lt;&#x2F;p&gt;
+&lt;p&gt;如果您有任何希望我制作的包的想法，请在评论中告诉我。&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="zh">
         <title>ALINE</title>
         <published>2025-03-26T19:01:08+00:00</published>
